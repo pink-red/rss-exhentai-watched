@@ -1,0 +1,8 @@
+{
+    "cookies": {
+        "ipb_member_id": "12345",
+        "ipb_pass_hash": "01234556789abcdef0123456789abcde",
+        "igneous": "abc123def",
+        "sk": "0123456789abcdefghj"
+    }
+}
